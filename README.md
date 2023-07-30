@@ -1,5 +1,5 @@
 
-                                                                             WELCOME EVERYONE VISITING REPO
+                                                       WELCOME EVERYONE VISITING REPO
 - 👋 Hi, I’m Bobby Jr.
 - 👀 I’m interested in Web and App Development.
 - 🌱 I’m currently learning and practicing.
