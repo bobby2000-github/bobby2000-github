@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bobby2000-github
 - 👀 I’m interested in living
-- 🌱 I’m currently learning survival
+- 🌱 I’m currently eating
 - 💞️ I’m looking to collaborate on Earth
 - 📫 How to reach me bobby2000-github
 
